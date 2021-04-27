@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vivek Goel</h1>
-<h3 align="center">Python Developer and Machine Learning Enthusiast</h3>
+<!--<h3 align="center">Python Developer and Machine Learning Enthusiast</h3>-->
 
 <!--🌱 I’m currently learning **Machine Learning** -->
 
