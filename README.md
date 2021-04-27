@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vivek Goel</h1>
 <h3 align="center">Python Developer and Machine Learning Enthusiast</h3>
 
-- <!--🌱 I’m currently learning **Machine Learning** -->
+<!--🌱 I’m currently learning **Machine Learning** -->
 
 - 👨‍💻 You can also check out my portfolio at [https://its-vivek-goel.github.io/](https://its-vivek-goel.github.io/)
 
