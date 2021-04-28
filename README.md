@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://its-vivek-goel.github.io/](https://its-vivek-goel.github.io/)
 
-- 📫 How to reach me **vkg8343@gmail.com**
+- 📫 Reach me out at **vkg8343@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
