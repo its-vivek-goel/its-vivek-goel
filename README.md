@@ -1,31 +1,90 @@
-<h1 align="center">Hello 👋, I'm Vivek Goel</h1>
-<!--<h3 align="center">Python Developer and Machine Learning Enthusiast</h3>-->
+<!-- Profile Header -->
+<h1 align="center"> Vivek Goel 👋 </h1>
+<h3 align="center">Site Reliability Engineer | Cloud Infrastructure | Automation Enthusiast</h3>
 
-<!--🌱 I’m currently learning **Machine Learning** -->
-
-- 👨‍💻 You can also check out my portfolio at [https://its-vivek-goel.github.io/](https://its-vivek-goel.github.io/)
-
-- 📫 Reach me out at **vkg8343@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/vivek-kumar-goel-9ab94516b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="its-vivek-goel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vivek._goel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vivek._goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCcmqBYc5Ol4j7onSO1g2aRw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vivek kumar goel" height="30" width="40" /></a>
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/vivek-kumar-goel-9ab94516b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://its-vivek-goel.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages" />
+  </a>
+  <a href="mailto:vkg78854@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCcmqBYc5Ol4j7onSO1g2aRw" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A36C&center=true&width=435&lines=Keep+automating...;Keep+observing...;Keep+reliability+first!" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Hi, I'm **Vivek Goel**, a passionate **Site Reliability Engineer** with experience building scalable, resilient, and secure infrastructure in production. I specialize in:
+
+- 🔧 Automating infrastructure using **Terraform**
+- ☁️ Designing cloud-native solutions on **Azure** & **AWS**
+- 🐧 Mastering **Linux** for performance and security
+- 💾 Optimizing database reliability with **MariaDB** replication and deployment automation
+- 🔍 Building observability with **Prometheus**, **Grafana**, and alerting pipelines
+
+---
+
+### 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,azure,aws,terraform,docker,kubernetes,bash,python,mysql,git,prometheus,grafana,vscode" alt="My Skills" />
+</p>
+
+---
+
+### 🚧 Recent Highlights
+
+- 🏗️ Designed and implemented a secure, scalable Hub‑Spoke architecture with integrated disaster recovery capabilities, optimizing network traffic and ensuring business continuity for 10+ production applications using firewalls, private endpoints, and automated failover mechanisms.
+- ⚙️ Automated infrastructure provisioning with Terraform by creating reusable modules to standardize deployments across multiple environments, reducing setup time by 50%.
+- 🔐 Configured the Azure Virtual Network Gateway (VNG) to establish secure connectivity between on‑premises data centers and Azure networks.
+- 📊 Deployed and scaled observability stacks—Prometheus, Grafana, and Loki—enabling 24/7 monitoring, real‑time alerting, and faster incident resolution across production workloads.
+- 🚦 Configured and managed NGINX for high‑performance web traffic handling, optimizing load balancing and security, and built custom dashboards for real‑time analytics on 4xx/5xx status codes.
+- 💾 Automated the setup of a multi‑master MariaDB Galera Cluster via SaltStack and implemented a robust failover strategy to ensure high availability and data consistency.
+- 🤝 Collaborated with development teams to define and implement SLIs, SLOs, and SLA alerts, increasing service reliability and operational transparency.
+- 🚨 Participated in on‑call rotations, performed incident response and root cause analysis, and guided restoration efforts for critical service‑impacting events.
+
+---
+
+### 🧠 Currently Exploring
+
+- 🔍 **SRE practices at scale** — error budgets, SLIs, SLOs
+- 🤖 AI for infrastructure monitoring and log analysis
+- 📦 Kubernetes & service mesh (Istio)
+
+---
+
+### ✨ Fun Facts
+
+- 🧩 I love **chess**, **traveling**, and **cooking new dishes**
+- 🎮 I unwind with online games and Linux CLI experiments
+- 🧭 My goal: **Become a top-tier SRE and give back to the tech community**
+
+---
+
+### 📬 Reach Me
+
+Want to collaborate or just say hi? Feel free to reach out:
+
+📧 **vkg78854@gmail.com**   
+💬 DM on [LinkedIn](https://www.linkedin.com/in/vivek-kumar-goel-9ab94516b/)
+
+---
+
+### 📌 Let's Build Something That Never Fails
+
+> _"Systems break. What defines an SRE is what happens next."_  
 
 
-<br>
-<br>
-
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of <b> "github-readme-stats". </b>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-vivek-goel)
