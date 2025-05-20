@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center"> Vivek Goel 👋 </h1>
+<h1 align="center"> Vivek Kumar Goel 👋 </h1>
 <h3 align="center">Site Reliability Engineer | Cloud Infrastructure | Automation Enthusiast</h3>
 
 <p align="center">
