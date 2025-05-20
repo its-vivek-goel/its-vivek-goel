@@ -20,45 +20,7 @@
 ---
 
 <p align="center">
-  <span title="Linux">
-    <img src="https://skillicons.dev/icons?i=linux" width="40px" />
-  </span>
-  <span title="Azure">
-    <img src="https://skillicons.dev/icons?i=azure" width="40px" />
-  </span>
-  <span title="AWS">
-    <img src="https://skillicons.dev/icons?i=aws" width="40px" />
-  </span>
-  <span title="Terraform">
-    <img src="https://skillicons.dev/icons?i=terraform" width="40px" />
-  </span>
-  <span title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" width="40px" />
-  </span>
-  <span title="Kubernetes">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="40px" />
-  </span>
-  <span title="Bash">
-    <img src="https://skillicons.dev/icons?i=bash" width="40px" />
-  </span>
-  <span title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="40px" />
-  </span>
-  <span title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40px" />
-  </span>
-  <span title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="40px" />
-  </span>
-  <span title="Prometheus">
-    <img src="https://skillicons.dev/icons?i=prometheus" width="40px" />
-  </span>
-  <span title="Grafana">
-    <img src="https://skillicons.dev/icons?i=grafana" width="40px" />
-  </span>
-  <span title="VSCode">
-    <img src="https://skillicons.dev/icons?i=vscode" width="40px" />
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A36C&center=true&width=435&lines=Keep+automating...;Keep+observing...;Keep+reliability+first!" alt="Typing SVG" />
 </p>
 
 
